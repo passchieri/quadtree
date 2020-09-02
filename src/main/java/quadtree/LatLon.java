@@ -4,7 +4,7 @@ package quadtree;
  * Simple representation of a latitude/longitude in WGS84 value.
  * 
  * @author Igor Passchier
- * @copyright (c) Tass International BV
+ *
  * *
  */
 public class LatLon {

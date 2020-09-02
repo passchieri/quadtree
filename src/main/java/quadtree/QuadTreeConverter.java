@@ -14,7 +14,7 @@ package quadtree;
  * The behaviour is undefined outside this area.
  * 
  * @author Igor Passchier
- * @copyright (c) Tass International BV *
+ *
  */
 public class QuadTreeConverter {
 

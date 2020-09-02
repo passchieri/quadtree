@@ -4,7 +4,7 @@ package quadtree;
  * Utility class to perform calculations to and from Mercator projection.
  * 
  * @author Igor Passchier
- * @copyright (c) Tass International BV
+ * 
  * *
  */
 public class Mercator {

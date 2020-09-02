@@ -6,7 +6,7 @@ package quadtree;
  * implemented in globalmaptiles.py.
  * 
  * @author Igor Passchier
- * @copyright (c) Tass International BV *
+ * 
  */
 public class Tile {
 	final int x;

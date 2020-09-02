@@ -6,7 +6,7 @@ package quadtree;
  * conversion bewteen lat/lon and tiles.
  * 
  * @author Igor Passchier
- * @copyright (c) Tass International BV *
+ * 
  */
 class ImageMapPoint {
 	final double x;
