@@ -1,10 +1,11 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Quadtree algoritmn
 Java implementation of the QuadTree algoritmn. This library has originally been developed for the Intercor project. A stand-alone example application is provided in [QuadTreeCreator.java](src/main/java/quadtree/sample/QuadTreeCreator.java), and as executable jar file in [QuadTreeCreator.jar](bin/QuadTreeCreator.jar)
 
 
-# License
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+### License
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
