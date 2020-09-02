@@ -1,4 +1,4 @@
-package intercor.if2.sample;
+package quadtree.sample;
 
 import java.io.PrintStream;
 
@@ -38,7 +38,7 @@ public class QuadTreeCreator {
 	}
 
 	private static void usage(PrintStream stream) {
-		stream.println("<program name> <latitude> <longitude> <zoomlevel> [seperator]");
+		stream.println("QuadTreeCreator <latitude> <longitude> <zoomlevel> [seperator]");
 	}
 
 }
